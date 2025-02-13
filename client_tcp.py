@@ -7,7 +7,7 @@ try:
     client.connect(('site.com.br', 80))
     client.send(b'GET / HTTP/2\nhost: site.com.br\n\n\n')
     pacotes_recebidos = client.recv(1024).decode()
-    print('Cliente TCP - n0body v1.3.0')
+    print('Cliente TCP - n0body v1.3.2')
     print('--------------------------------')
     print(pacotes_recebidos)
 
