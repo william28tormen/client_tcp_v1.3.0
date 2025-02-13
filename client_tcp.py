@@ -1,4 +1,4 @@
-import socket
+aimport socket
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.settimeout(3)
