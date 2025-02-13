@@ -15,3 +15,5 @@ Exemplo de uso:
 Um exemplo comum de cliente TCP é um navegador web (como Chrome ou Firefox) que se conecta a um servidor web (como Apache ou Nginx) para carregar uma página da internet. O navegador envia uma solicitação HTTP ao servidor, que responde com os dados da página, tudo isso utilizando o protocolo TCP para garantir a entrega confiável dos dados.
 
 Em resumo, o cliente TCP é responsável por iniciar e gerenciar a comunicação com um servidor TCP, garantindo que os dados sejam transmitidos de forma confiável e eficiente.
+
+William Tormen -> williamtormen.com.br
